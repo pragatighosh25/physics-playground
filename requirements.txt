@@ -1,0 +1,2 @@
+npm install three @react-three/fiber @react-three/drei @react-three/cannon leva
+npm install zustand
